@@ -13,6 +13,9 @@ public interface UserDao {
 		
 	//李四提交的方法
 		void aa();
+		
+		//李四提交的方法2
+				void aaa();
 	
 
 }
