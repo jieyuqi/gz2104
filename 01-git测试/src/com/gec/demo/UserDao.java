@@ -2,11 +2,12 @@ package com.gec.demo;
 
 public interface UserDao {
 	
-	void addUser();
+void addUser();
 	
 	//push�ύ
 	void addUser2();
 	
+
 	//push�ύ
 		void addUser3();
 		
@@ -14,8 +15,8 @@ public interface UserDao {
 	//李四提交的方法
 		void aa();
 		
-		//李四提交的方法2
-				void aaa();
+		//zhangsan提交的aaa
+		void zhangsan_aa();
 	
 
 }
