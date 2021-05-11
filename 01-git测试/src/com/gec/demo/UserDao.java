@@ -4,5 +4,8 @@ public interface UserDao {
 	
 	void addUser();
 	
+	//pushÌá½»
+	void addUser2();
+	
 
 }
