@@ -7,5 +7,8 @@ public interface UserDao {
 	//push提交
 	void addUser2();
 	
+	//push提交
+		void addUser3();
+	
 
 }
