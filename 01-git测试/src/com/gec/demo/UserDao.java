@@ -4,11 +4,15 @@ public interface UserDao {
 	
 	void addUser();
 	
-	//push�ύ
+	//push�ύ
 	void addUser2();
 	
-	//push�ύ
+	//push�ύ
 		void addUser3();
+		
+		
+	//李四提交的方法
+		void aa();
 	
 
 }
