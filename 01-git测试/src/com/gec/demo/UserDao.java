@@ -17,6 +17,9 @@ void addUser();
 		
 		//zhangsan提交的aaa
 		void zhangsan_aa();
+		
+		//zhangsan提交的
+		void zhangsan();
 	
 
 }
