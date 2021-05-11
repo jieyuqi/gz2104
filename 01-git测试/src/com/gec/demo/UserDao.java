@@ -23,6 +23,9 @@ void addUser();
 		
 		//zhangsan提交的
 		void zhangsan2();
+		//lisi提交的
+		void lisi();
+		
 	
 
 }
