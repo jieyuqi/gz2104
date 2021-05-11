@@ -20,6 +20,9 @@ void addUser();
 		
 		//zhangsan提交的
 		void zhangsan();
+		
+		//zhangsan提交的
+		void zhangsan2();
 	
 
 }
